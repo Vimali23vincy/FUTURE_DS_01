@@ -70,5 +70,5 @@ This task involves designing an interactive **Power BI dashboard** using histori
 ## 👨‍💻 Completed By
 **Intern Name:** Vimali Vincy
 **Cohort:** Future Interns – Data Science & Analytics  
-**Project Title:** Business Sales Dashboard from E-Commerce Data  
+
 
