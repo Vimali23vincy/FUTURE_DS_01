@@ -45,14 +45,15 @@ This task involves designing an interactive **Power BI dashboard** using histori
 ---
 
 ## 🖥️ Dashboard Preview
-> *(Insert dashboard image if available)*
+   <img width="1329" height="722" alt="image" src="https://github.com/user-attachments/assets/cdb05fdf-df2f-4b28-8595-6b013ee96900" />
+
 
 ---
 
 ## 🛠 Tools & Skills Used
 - Microsoft Power BI Desktop  
 - DAX Basics and Aggregation  
-- KPI Cards, Treemap, Line, Bar, Pie Charts  
+- KPI Cards, Gauge,Map, Line, Bar, Pie Charts  
 - Interactive Filters and Slicers  
 - Data Modeling and Relationship Setup  
 
